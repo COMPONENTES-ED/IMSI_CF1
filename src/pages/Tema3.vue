@@ -207,7 +207,7 @@
                 Freshdesk
               </td>
               <td>
-                <em>Interface</em> fácil de usar con múltiples opciones de
+                <em>Interfaz</em> fácil de usar con múltiples opciones de
                 automatización
               </td>
               <td>

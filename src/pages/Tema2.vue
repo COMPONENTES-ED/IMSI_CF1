@@ -4,7 +4,7 @@
     <div class="container tarjeta tarjeta--blanca p-4 p-md-5 mb-5">
       <div class="titulo-principal color-acento-contenido" data-aos="flip-up">
         <div class="titulo-principal__numero"><span>2</span></div>
-        <h1>Gestión de Incidentes</h1>
+        <h1>Gestión de incidentes</h1>
       </div>
       <div class="row">
         <div class="col-md-auto d-none d-md-block">
@@ -172,8 +172,7 @@
               <td class="text-center">Baja</td>
               <td class="text-center">Sistema operativo o <em>software</em></td>
               <td class="text-center">
-                <em><strong>Bajo:</strong></em> no afecta operaciones actuales
-                del cliente
+                <b>Bajo:</b> no afecta operaciones actuales del cliente
               </td>
             </tr>
             <tr class="bg-white">
