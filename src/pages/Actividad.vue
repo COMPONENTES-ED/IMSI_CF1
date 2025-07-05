@@ -21,7 +21,7 @@
         <div class="col-12 col-md-8 col-lg-9">
           <div class="titulo-segundo">
             <h2>
-              Prueba de conocimientos sobre soporte técnico y atención al
+              Prueba de conocimientos sobre Soporte técnico y atención al
               cliente en la reparación de equipos
             </h2>
           </div>

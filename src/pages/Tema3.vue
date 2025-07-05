@@ -207,8 +207,7 @@
                 Freshdesk
               </td>
               <td>
-                <em>Interfaz</em> fácil de usar con múltiples opciones de
-                automatización
+                Interfaz fácil de usar con múltiples opciones de automatización
               </td>
               <td>
                 Gestión de <em>tickets</em>, <em>chatbot</em> de IA, análisis de
@@ -441,17 +440,60 @@
               alt="La Figura 2 se denomina «Características de un formato de servicio» e indica que debe tener claridad y organización, campos específicos y relevantes, flexibilidad e integración con los sistemas de gestión."
             />
           </figure>
-          <figcaption class="mt-2 fw-normal">
+          <figcaption class="my-4 fw-normal">
             <strong>Fuente:</strong> OIT, 2024.
           </figcaption>
           <p class="mb-4">
-            La imagen presenta cuatro principios clave para el diseño de
-            formatos en la gestión de soporte. El diseño de formatos para la
-            gestión de soporte debe ser claro, organizado y con campos
-            específicos que capturen información clave. Deben permitir
-            actualizaciones en tiempo real para casos complejos y estar
-            integrados con sistemas de gestión como <em>Help Desk</em>,
-            centralizando la información y evitando duplicidades.
+            La figura presenta las características esenciales que debe tener un
+            formato de servicio eficaz en contextos de soporte técnico y gestión
+            de incidencias. La estructura visual está organizada en una
+            disposición cuadrangular simétrica, con cada bloque de contenido
+            dispuesto en un cuadrante, alrededor de un centro implícito. Cada
+            bloque tiene un color de fondo azul con bordes redondeados, lo cual
+            contribuye a una presentación clara y profesional. Los títulos de
+            cada sección están destacados en negrita, y se complementan con una
+            explicación que desarrolla la idea central.
+            <br /><br /><b>1. Claridad y organización</b> <br />Los formatos
+            deben ser claros y estar organizados en secciones lógicas (como
+            datos del cliente, descripción de la incidencia, diagnóstico,
+            acciones realizadas, escalamiento, etc.). Esto facilita que el
+            técnico o agente de soporte complete la información de manera
+            ordenada y comprensible. <br /><br />Este bloque, ubicado en el
+            cuadrante superior izquierdo, resalta la importancia de la
+            estructura interna del formato como base para una documentación
+            efectiva. <br /><br />
+            <b>2. Campos específicos y relevantes</b> <br />Los campos deben
+            captar información, como los detalles del equipo afectado, la
+            naturaleza del problema, el diagnóstico preliminar y las acciones
+            realizadas. Esto evita la omisión de detalles clave y permite que el
+            registro sirva como referencia completa. <br /><br />Ubicado en el
+            cuadrante superior derecho, este bloque enfatiza que la utilidad del
+            formato depende de la pertinencia de los campos definidos,
+            garantizando que se capture información crítica para el análisis y
+            la resolución. <br /><br /><b
+              >3. Flexibilidad para actualizaciones y seguimiento</b
+            >
+            <br />Es importante que el formato permita actualizaciones en tiempo
+            real a medida que avanza el caso, documentando cada etapa del
+            proceso. Esto resulta particularmente útil en casos complejos que
+            requieren escalamiento o múltiples revisiones. <br /><br />Este
+            contenido se localiza en el cuadrante inferior izquierdo, y destaca
+            la necesidad de que el formato esté diseñado para adaptarse a la
+            evolución del caso, promoviendo una trazabilidad completa del
+            servicio. <br /><br /><b>4. Integración con sistemas de gestión</b>
+            <br />Los formatos de servicio deberían integrarse fácilmente con el
+            sistema de gestión de tickets o el software Help-desk, para que toda
+            la información esté centralizada y accesible para el equipo de
+            soporte. Esto evita duplicación de datos y asegura que todos los
+            registros estén en una sola plataforma. <br /><br />Este bloque se
+            encuentra en el cuadrante inferior derecho, y señala la importancia
+            de que el formato no funcione como una herramienta aislada, sino que
+            se articule con las plataformas tecnológicas existentes para una
+            gestión eficiente y coherente. En conjunto, estos cuatro elementos
+            conforman una visión integral del diseño de formatos de servicio,
+            asegurando que no solo cumplan su función operativa, sino que
+            también fortalezcan la gestión de información, la trazabilidad del
+            caso y la experiencia del usuario.
           </p>
         </div>
       </div>
@@ -527,12 +569,70 @@
           <strong>Fuente:</strong> OIT, 2024.
         </figcaption>
         <p>
-          La imagen representa un ciclo de mejora continua en la gestión de
-          soporte. incluye definir objetivos claros y medibles, recolectar y
-          analizar datos clave, desarrollar planes de mejora concretos,
-          implementarlos y monitorear su impacto para ajustes futuros. Este
-          proceso busca optimizar la calidad del servicio y la satisfacción del
-          cliente de manera constante.
+          La figura representa un ciclo de mejora continua aplicado al diseño y
+          evaluación de formatos de servicio. El diagrama tiene una estructura
+          circular, compuesta por cinco bloques o etapas conectados por flechas
+          curvas que siguen el sentido horario, lo cual indica una secuencia
+          progresiva y reiterativa. Este diseño visual refuerza la idea de que
+          la mejora en los formatos de servicio es un proceso cíclico que no
+          concluye, sino que se actualiza constantemente con base en la
+          evaluación de resultados y nuevas necesidades.
+          <br /><br /><b>Etapas del ciclo</b> <br /><br /><b
+            >1. Definir objetivos y estándares</b
+          >
+          <br />En esta etapa se establecen los objetivos específicos y los
+          estándares de calidad que el equipo de soporte debe alcanzar. Algunos
+          ejemplos son el tiempo promedio de respuesta y la satisfacción del
+          cliente. Es importante que estos objetivos sean medibles y estén
+          alineados con las necesidades del cliente y con los acuerdos de nivel
+          de servicio (SLAs). Esta fase es fundamental, ya que define el marco
+          de referencia sobre el cual se evaluará la efectividad del formato y
+          del proceso de atención. <br /><br /><b
+            >2. Medición y recolección de datos</b
+          >
+          <br />A continuación, se deben utilizar herramientas de gestión para
+          recolectar datos durante un periodo definido. La información obtenida
+          debe estar relacionada con métricas clave, como los tiempos de
+          respuesta y resolución, así como el nivel de satisfacción de los
+          usuarios. Es esencial que los datos recolectados sean representativos
+          y precisos, lo cual permite una base sólida para el análisis
+          posterior. <br /><br /><b>3. Análisis de resultados</b> <br />En esta
+          tercera etapa se realiza el análisis de los datos recolectados, con el
+          objetivo de identificar patrones, áreas problemáticas y determinar si
+          los objetivos definidos se están cumpliendo. Este análisis permite una
+          comprensión profunda de los factores que afectan la eficiencia y la
+          calidad del servicio. Así, se establecen fundamentos sólidos para la
+          toma de decisiones correctivas o preventivas. <br /><br /><b
+            >4. Desarrollo de planes de mejora</b
+          >
+          <br />Basándose en los hallazgos del análisis, se diseñan planes de
+          mejora concretos y realizables, enfocados en resolver los problemas
+          detectados. Estos planes pueden incluir la capacitación del personal,
+          la optimización de procesos, o la implementación de nuevas
+          herramientas tecnológicas. Es crucial que estas mejoras estén pensadas
+          para ejecutarse en el corto o mediano plazo y tengan un impacto
+          tangible en la calidad del servicio. <br /><br /><b
+            >5. Implementación y revaluación</b
+          >
+          <br />Finalmente, se procede a la implementación de las mejoras y al
+          monitoreo de su impacto, lo cual se realiza mediante una nueva
+          recolección de datos. Esta fase permite determinar si los cambios
+          introducidos fueron efectivos. En caso contrario, se pueden ajustar
+          los planes y volver a iniciar el ciclo, estableciendo así un proceso
+          de mejora continua sostenido y adaptativo. <br /><br /><b
+            >Importancia del diseño visual</b
+          >
+          <br /><br />El diseño de esta figura refuerza el carácter iterativo y
+          dinámico del proceso, representado mediante una serie de bloques
+          rectangulares con esquinas redondeadas, dispuestos en forma de espiral
+          o ciclo cerrado. Las flechas curvas que conectan cada bloque indican
+          una transición fluida y continua entre etapas, resaltando la
+          naturaleza evolutiva de la mejora en formatos de servicio.
+          <br /><br />Esta representación cíclica facilita la comprensión del
+          proceso y también promueve una cultura organizacional orientada al
+          aprendizaje y la mejora constante, asegurando que los formatos de
+          servicio se mantengan alineados con los objetivos institucionales y
+          las expectativas cambiantes de los usuarios.
         </p>
       </div>
       <p class="mt-5" data-aos="fade-right">

@@ -81,7 +81,7 @@ export default {
             'https://www.youtube.com/watch?v=8hHQ0i5spgs&list=PLkc5n6npRWkhgy8-__7eMfcC5nnMlV2TJ&index=8 ',
         },
         {
-          tema: '3.Herramientas de gestión',
+          tema: '3. Herramientas de gestión',
           referencia:
             'Ecosistema de Recursos Educativos Digitales SENA. (2022, agosto30). <em>Evaluación de métricas y controles</em>.',
           tipo: 'Video',

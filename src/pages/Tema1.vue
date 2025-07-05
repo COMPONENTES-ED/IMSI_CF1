@@ -326,6 +326,7 @@
       </div>
       <figure data-aos="zoom-in">
         <img
+          class="mb-4"
           src="@/assets/curso/tema1/8.svg"
           alt="La Figura 1 se denomina «Proceso para la gestión de peticiones y escalamiento» y presenta esta orientación a partir de diez acciones desde la recepción de la solicitud hasta el cierre del caso."
         />
@@ -334,14 +335,58 @@
         <strong>Fuente:</strong> OIT, 2024.
       </figcaption>
       <p class="mb-4">
-        El flujo describe el proceso de gestión de casos, comenzando con la
-        recepción y clasificación de la solicitud según su urgencia y
-        complejidad, seguido de la asignación a un técnico adecuado. Incluye un
-        diagnóstico inicial, escalamiento automático en casos complejos y
-        notificación constante al cliente sobre el progreso. Para casos
-        avanzados, se realiza una revisión especializada y coordinación
-        interdepartamental. Finalmente, se valida la resolución con el cliente y
-        se documenta el cierre del caso para mejorar futuros procesos.
+        La infografía presentada comprende el proceso para la gestión de
+        peticiones y escalamiento, y se compone de una serie de etapas
+        articuladas que permiten garantizar la atención efectiva y oportuna de
+        los casos reportados por los usuarios. Este flujo inicia con la
+        recepción de la solicitud, momento en el que se realiza un registro
+        detallado de la petición, incluyendo los datos del cliente y una
+        descripción clara del problema. Esta información es fundamental para
+        comprender el nivel de urgencia y establecer una base sólida para el
+        tratamiento del caso.
+        <br />Una vez registrada la solicitud, se procede a la clasificación de
+        la petición, en donde se evalúan dos aspectos clave: la urgencia del
+        requerimiento y la complejidad del equipo o sistema afectado. Esta
+        clasificación permite establecer prioridades y planificar la atención de
+        manera eficiente. Acto seguido, se lleva a cabo la asignación inicial
+        del caso, mediante la cual se designa a un técnico con el nivel de
+        experiencia adecuado, con el fin de optimizar el uso de los recursos
+        técnicos disponibles y evitar demoras innecesarias. <br /><br />Con el
+        caso asignado, el técnico inicia la fase de diagnóstico y documentación
+        inicial, que consiste en una evaluación preliminar del problema y el
+        registro sistemático de las observaciones encontradas. Durante esta
+        etapa, el técnico también determina si cuenta con las capacidades
+        necesarias para abordar la solicitud o si, por el contrario, se requiere
+        escalar el caso. <br /><br />Cuando el nivel de complejidad supera las
+        capacidades del técnico asignado, se activa un escalamiento automático,
+        lo que implica la transferencia inmediata del caso a un nivel de soporte
+        avanzado. Esta ruta alterna garantiza la continuidad de la atención sin
+        retrasos, asegurando que los casos más complejos sean atendidos por
+        personal especializado. <br /><br />Paralelamente a estas actividades,
+        se mantiene una actualización constante al cliente, informando sobre el
+        estado y progreso del caso, en especial en aquellas situaciones en las
+        que ha sido necesario realizar un escalamiento. Esta comunicación
+        oportuna y transparente refuerza la confianza del usuario y demuestra el
+        compromiso institucional con la calidad del servicio. <br /><br />Los
+        casos escalados son sometidos a una revisión por parte de un
+        especialista, quien realiza un diagnóstico más profundo y define las
+        acciones necesarias para resolver el problema. En situaciones donde el
+        caso requiera la intervención de otros equipos o departamentos, se
+        establece una comunicación interdepartamental para coordinar los
+        recursos técnicos, logísticos o administrativos que se consideren
+        pertinentes. <br /><br />Una vez implementadas las acciones correctivas,
+        se realiza la resolución del caso y la validación de la satisfacción del
+        cliente. Esta etapa busca confirmar que la solución fue efectiva y que
+        el usuario se encuentra conforme con la atención recibida. Solo después
+        de dicha validación se procede al cierre del caso, en donde se documenta
+        de manera definitiva el proceso seguido, se notifica al cliente el
+        cierre formal de su solicitud, y se deja un registro que puede ser
+        utilizado posteriormente para retroalimentación y mejora continua.
+        <br /><br />Este proceso, aunque lineal en su estructura principal,
+        contempla rutas alternas como el escalamiento automático, así como
+        actividades transversales como la actualización constante al cliente, lo
+        cual permite adaptarse a diferentes niveles de complejidad, garantizando
+        una atención integral, ágil y eficaz.
       </p>
       <Separador></Separador>
       <div class="titulo-segundo" data-aos="flip-up">
